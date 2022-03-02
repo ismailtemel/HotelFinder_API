@@ -1,0 +1,16 @@
+D:\HotelFinder\HotelFinder.DataAccess\bin\Debug\netcoreapp3.1\HotelFinder.DataAccess.deps.json
+D:\HotelFinder\HotelFinder.DataAccess\bin\Debug\netcoreapp3.1\HotelFinder.DataAccess.runtimeconfig.json
+D:\HotelFinder\HotelFinder.DataAccess\bin\Debug\netcoreapp3.1\HotelFinder.DataAccess.runtimeconfig.dev.json
+D:\HotelFinder\HotelFinder.DataAccess\bin\Debug\netcoreapp3.1\HotelFinder.DataAccess.dll
+D:\HotelFinder\HotelFinder.DataAccess\bin\Debug\netcoreapp3.1\HotelFinder.DataAccess.pdb
+D:\HotelFinder\HotelFinder.DataAccess\bin\Debug\netcoreapp3.1\HotelFinder.Entites.dll
+D:\HotelFinder\HotelFinder.DataAccess\bin\Debug\netcoreapp3.1\HotelFinder.Entites.pdb
+D:\HotelFinder\HotelFinder.DataAccess\obj\Debug\netcoreapp3.1\HotelFinder.DataAccess.csproj.AssemblyReference.cache
+D:\HotelFinder\HotelFinder.DataAccess\obj\Debug\netcoreapp3.1\HotelFinder.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\HotelFinder\HotelFinder.DataAccess\obj\Debug\netcoreapp3.1\HotelFinder.DataAccess.AssemblyInfoInputs.cache
+D:\HotelFinder\HotelFinder.DataAccess\obj\Debug\netcoreapp3.1\HotelFinder.DataAccess.AssemblyInfo.cs
+D:\HotelFinder\HotelFinder.DataAccess\obj\Debug\netcoreapp3.1\HotelFinder.DataAccess.csproj.CoreCompileInputs.cache
+D:\HotelFinder\HotelFinder.DataAccess\obj\Debug\netcoreapp3.1\HotelFinder.DataAccess.csproj.CopyComplete
+D:\HotelFinder\HotelFinder.DataAccess\obj\Debug\netcoreapp3.1\HotelFinder.DataAccess.dll
+D:\HotelFinder\HotelFinder.DataAccess\obj\Debug\netcoreapp3.1\HotelFinder.DataAccess.pdb
+D:\HotelFinder\HotelFinder.DataAccess\obj\Debug\netcoreapp3.1\HotelFinder.DataAccess.genruntimeconfig.cache
